@@ -1,7 +1,7 @@
 # DeepWaveBend
 A Neural Network guitar pedal for turning a guitar into a piano in real time!
 
-- To watch and hear what this sounds like check out: https://twitter.com/tomlumperson
+- To watch and hear what this sounds like check out: https://twitter.com/TomLumPerson/status/1214941154690707457
 
 - To play with an interactive web version of this, check out: https://www.tomlum.com/deepwavebend
 
