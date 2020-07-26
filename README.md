@@ -7,9 +7,12 @@ A Neural Network guitar pedal for turning a guitar into a piano in real time!
 
 - To train your own version of this model on google colab, check out https://colab.research.google.com/drive/1R8RkEpCx-nF14CDtBC31VDjcdb9Jfvfq
 
+
 - To run this model on your desktop, you'll need to have python and pipenv and then run
   - `pipenv install`
   - `pipenv run python run.py saves/guitar2piano.h5`
+
+**NOTE: This network was trained on my guitar and setup, so your mileage with your guitar and setup may vary**
 
 (My apologies if you run into issues with this, python package management is an absolute nightmare and a half.)
 
