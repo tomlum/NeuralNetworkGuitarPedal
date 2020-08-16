@@ -1,5 +1,5 @@
 # DeepWaveBend
-A Neural Network guitar pedal for turning a guitar into a piano in real time!
+# A Neural Network guitar pedal for turning a guitar into a piano in real time!
 
 [![Youtube thumbnail for neural network guitar pedal](https://misc-images-tom-lum.s3.ca-central-1.amazonaws.com/thumbnail.png)](https://youtu.be/FzNboB1I7bM)
 
