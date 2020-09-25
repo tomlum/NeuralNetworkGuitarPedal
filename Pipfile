@@ -12,7 +12,7 @@ scipy = "==1.4.1"
 numpy = "==1.18.0"
 sounddevice = "==0.3.14"
 soundfile = "==0.10.3.post1"
-tensorflow = "==2.0.0"
+tensorflow = "==2.0.3"
 plotly = "==4.4.1"
 chart-studio = "==1.0.0"
 
