@@ -15,5 +15,6 @@ soundfile = "==0.10.3.post1"
 tensorflow = "==2.0.0"
 plotly = "==4.4.1"
 chart-studio = "==1.0.0"
+h5py = "==2.10.0"
 
 [dev-packages]
